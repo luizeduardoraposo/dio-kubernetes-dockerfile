@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Creating images"
 
 docker build -t denilsonbonatti/projeto-backend:1.0 backend/.
